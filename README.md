@@ -59,9 +59,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nabillainka&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=nabillainka&icon=0&color=1)](https://visitcount.itsvg.in)
 
+### 🎮 Play with Me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabillainka/nabillainka/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabillainka/nabillainka/output/pacman-contribution-graph.svg">
