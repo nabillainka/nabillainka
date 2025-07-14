@@ -1,58 +1,27 @@
-# Hi there, I'm Inka - aka [nabillainka](https://www.linkedin.com/in/nabilla-inka-safitri)👋
-## About me:
-- 🔭 I am currently looking for a job in the data analyst field
-- 🌱 I am currently learning Python, SQL, and Power BI
-- 👯 I want to collaborate as a Data Analyst
-- 💬 Ask me about anything
-- 📫 How to contact me: nabillainka07@gmail.com
+# 💫 Hi I'm Nabilla Inka Safitri:
+🔭 I'm currently working at PT Nico Cipta Karya as a Saleswoman <br>Manage daily transaction data, archive operational documents, and organise product displays to attract customers.<br><br>👯 I'm looking to collaborate on<br>Data analyst projects, particularly those involving data visualisation, big data processing, and storytelling through data.<br><br>🤝 I'm looking for help with<br>Application of predictive analytics and advanced statistics to understand hidden trends and patterns in business data.<br><br>🌱 I'm currently learning<br>Data exploration techniques (EDA), A/B testing, and analytics tools such as Python (pandas, matplotlib), SQL, and Google Looker Studio.<br><br>💬 Ask me about<br>How to turn raw data into easy-to-understand insights, create informative visualisations, and tips on creating data-driven reports.<br><br>⚡ Fun fact<br>I can sink hours into a spreadsheet or dashboard-for me, every dataset is like a puzzle waiting to be solved!
 
-## Education:
 
-#### 1. [Brawijaya University](https://www.ub.ac.id/) | Bachelor of Mathematics | Malang `2020-2024`
-   - Asistant Lecture of Operations Research, Analytic Geometry, Partial Differential Equations, Introduction to Complex Functions I & II, and Elementary Linear Algebra
-   - Tentor of Elementary Linear Algebra in Mathematics IP 4.0 Jilid V
-   - Final Project-Dynamic Analysis of Drug Addiction Behavior Spread Model with Anti-drug Education and Media Coverage
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nbl_inkka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nabilla-inka-safitri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabillainka07@gmail.com) 
 
-#### 2. [SMA N 102 Jakarta](https://sman102jakarta.sch.id/) | IPA | Jakarta `2017-2020`
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nabillainka&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nabillainka&theme=catppuccin_latte&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabillainka&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Work Experience:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nabillainka&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
 
-#### 1. [Brawijaya University](https://www.ub.ac.id/) | Response Assistant (Lecturer) | Malang `Aug'2022 - Jan'2024`
-   - Responsible for creating learning contracts and learning modules with LaTeX in accordance with the recommendations of lecturers and related administrative departments
-   - In charge of teaching students in class according to the schedule and syllabus that has been determined and evaluating student learning with the help of Excel
-#### 2. [Badan Pusat Statistik Bekasi](https://bekasikota.bps.go.id/) | Student Intern | Bekasi `2023-2023`
-   - Responsible for data entry of the Public Consultation Forum (FKP)
-   - In charge of compiling, writing, and archiving Agricultural Census (ST) documents, as well as performing other administrative activities such as checking and recording equipment and supplies with the help of Excel
-   - Performed data analysis on the effect of the Human Development Index (HDI) and population on the poverty rate
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### Languages and Tools:
-
-[<img align="left" alt="Excel" width="50px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev] 
-[<img align="left" alt="Word" width="50px" src="https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ=w240-h480-rw" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power Point" width="50px" src="https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M=w240-h480-rw" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Spread Sheet" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png" style="padding-right:10px;" />][webdev] 
-[<img align="left" alt="Docs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Slides" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Looker" width="30px" src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" style="padding-right:10px;" />][webdev] 
-[<img align="left" alt="Maple" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjgEw60CoQyVCWVNt_2igVTrg8aDpLxgc1p3lxn0v6m4Q0mjbn5eryp9SUfLXuJ0kMvjI&usqp=CAU" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Matlab" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="LaTeX" width="100px" src="https://cdn.pixabay.com/photo/2013/03/30/00/10/latex-97866_640.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="SPSS" width="50px" src="https://trainingeltasa.com/wp-content/uploads/2020/05/spsss.png" style="padding-right:0px;" />][webdev]
-
-<br />
-<br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nabillainka&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
-### Connect with me:
+[![](https://visitcount.itsvg.in/api?id=nabillainka&icon=0&color=1)](https://visitcount.itsvg.in)
 
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nabilla-inka-safitri#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nabilla-inka-safitri#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nbl_inkka#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nbl_inkka#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/nabillainka/nabillainka
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
