@@ -1,4 +1,5 @@
-# 💫 Hi I'm Nabilla Inka Safitri:
+![Header](https://github.com/nabillainka/nabillainka/blob/main/img/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+# 💫 Hi, I'm Nabilla Inka Safitri 👋
 🔭 I'm currently working at PT Nico Cipta Karya as a Saleswoman <br>Manage daily transaction data, archive operational documents, and organise product displays to attract customers.<br><br>👯 I'm looking to collaborate on<br>Data analyst projects, particularly those involving data visualisation, big data processing, and storytelling through data.<br><br>🤝 I'm looking for help with<br>Application of predictive analytics and advanced statistics to understand hidden trends and patterns in business data.<br><br>🌱 I'm currently learning<br>Data exploration techniques (EDA), A/B testing, and analytics tools such as Python (pandas, matplotlib), SQL, and Google Looker Studio.<br><br>💬 Ask me about<br>How to turn raw data into easy-to-understand insights, create informative visualisations, and tips on creating data-driven reports.<br><br>⚡ Fun fact<br>I can sink hours into a spreadsheet or dashboard-for me, every dataset is like a puzzle waiting to be solved!
 
 
