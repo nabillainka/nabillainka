@@ -9,6 +9,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabilla-inka-safitri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabillainka07@gmail.com)
 
+### 🔗 Publication
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://github.com/nabillainka/peramalanpendudukkotabekasi/blob/main/foto/image%20(3).png" width="100" alt="Artikel Medium">
+    </td>
+    <td>
+      👉 <b><a href="https://medium.com/@nabillainka07/peramalan-jumlah-penduduk-kota-bekasi-3bdbc1f02b21?postPublishedType=repub" target="_blank">
+      Peramalan Jumlah Penduduk Kota Bekasi
+      </a></b><br>
+      <span>The full, narrative version of the research is available on Medium.</span>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Skills & Tools
 
