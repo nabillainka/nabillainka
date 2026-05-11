@@ -22,6 +22,16 @@
       <span>The full, narrative version of the research is available on Medium.</span>
     </td>
   </tr>
+  <td width="120">
+      <img src="https://github.com/nabillainka/peramalanpendudukkotabekasi/blob/main/foto/image%20(2).png" width="100" alt="Artikel Medium">
+    </td>
+    <td>
+      👉 <b><a href="https://medium.com/@nabillainka07/pengaruh-jumlah-penduduk-dan-ipm-terhadap-tingkat-kemiskinan-kota-bekasi-80426fdba7e9" target="_blank">
+      Pengaruh Jumlah Penduduk dan IPM terhadap Tingkat Kemiskinan Kota Bekasi
+      </a></b><br>
+      <span>The full, narrative version of the research is available on Medium.</span>
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ Skills & Tools
